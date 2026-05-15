@@ -8,7 +8,7 @@ For this project I have used Esp32 in a arduino uno shape.
 For stepper motors I have used 2x ATD5833.
 I have included PCB files, its a pretty simple pcb that connects everything nicely.
 
-[https://github.com/Gerberrrrr/ESP32-Turret](https://www.printables.com/model/1445566-laser-pointer-robot)
+https://www.printables.com/model/1445566-laser-pointer-robot
 
 If I forgot to include anything please let me know.
 Have fun
